@@ -58,3 +58,24 @@ if(strpos($str1,$str2)) {
 The output will be:\
 "yabadabadoo" does not contain "yaba"\
 Why? How can this code be fixed to work correctly?
+
+## Task 6
+Write a program for this pattern:
+```
+*
+**
+***
+****
+*****
+******
+*****
+****
+***
+**
+*
+```
+## Task 7
+Write a program for finding the biggest number in an array without using any array functions.
+
+## Task 8
+Write a program that outputs multiplication tablebased on input argument. For example if input is 5, the result would be:
