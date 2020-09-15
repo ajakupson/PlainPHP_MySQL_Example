@@ -126,3 +126,23 @@ Consider simple book rental service. At the moment everything is stored in Excel
 | Joe Goodspeed | 5234567 | "Inversion of control" | 02.03.2020 | 04.03.202 |
 | Joe Goodspeed | 5234567 | "Design patterns" | 02.03.2020 | |
 | Nicky Jones | 5345678 | "Why my code smells?" | 07.03.2020 | |
+
+Employees at shop are having more and more problems using this Excel worksheet. There are more borrowers every day. Our company received order for creating small modern program to  solve  those  problems.  You  are  given  the  task  to  design  database  schema.  Based  on information above design the best database schema you possibly can.
+
+## Task 2
+Along with current trial tests file cometwo additional files, both related to current task:
+- Small MySQL database dump (trial.sql). It contains schema and data for one table "Employees".
+- Sample data file (data.csv). The data in the file represents single table "Employees" in database.
+
+You may use either alternative. Solve following tests based on provided data:
+1. Write a query to list the number of jobs available in the employees table.
+2. Write a query to get the maximum salary of an employee working as a Programmer("IT_PROG").
+3. Write  a  query  to  get  the  average  salary  and  number  of  employees  working  the department 90.
+4. Write a query to get the number of employees with the same job.
+5. Write a query to get the difference between the highest and lowest salaries.
+6. Write a query to find the manager ID and the salary of the lowest-paid employee for that manager.
+7. Write  a  query  to  get  the  department  ID  and  the  total  salary  payable  in  each department.
+8. Write a query to get the average salary for each job ID excluding programmer.,
+9. Write  a  query  to  get  the  total  salary,  maximum,  minimum,  average  salary  of employees (job ID wise), for department ID 90 only.
+10. Write  a  query  to  get  the  job  ID  and  maximum  salary  of  the  employees  where maximum salary is greater than or equal to $4000.
+11. Write a query to get the average salary for all departments employing more than 10 employee
