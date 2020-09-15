@@ -78,7 +78,7 @@ Write a program for this pattern:
 Write a program for finding the biggest number in an array without using any array functions.
 
 ## Task 8
-Write a program that outputs multiplication tablebased on input argument. For example if input is 5, the result would be:\
+Write a program that outputs multiplication tablebased on input argument. For example if input is 5, the result would be:
 
 | | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- |
