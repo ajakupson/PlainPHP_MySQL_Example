@@ -16,6 +16,7 @@ Implement a "groupByAuthor" method that returns an associative array containing 
   "I love LISP" => "Mary Little",
   "Python for dummies" => "John Smith"
 ];
+
 ```
 Expected result is (sorting order is not important):
 ```
